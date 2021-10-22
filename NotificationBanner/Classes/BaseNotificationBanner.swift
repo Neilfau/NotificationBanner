@@ -377,7 +377,7 @@ open class BaseNotificationBanner: UIView {
                 queuePosition: queuePosition
             )
         } else {
-            guard bannerPositionFrame != nil else {
+            guard bannerPositionFrame.startFrame != nil && bannerPositionFrame.endFrame != nil else {
                 remove();
                 return
             }

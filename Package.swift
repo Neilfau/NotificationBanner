@@ -7,7 +7,9 @@ let package = Package(
         .iOS(.v10)
     ],
     products: [
-        .library(name: "NotificationBannerSwift", targets: ["NotificationBannerSwift"])
+        .library(name: "NotificationBannerSwift", 
+                 type: .dynamic,
+                 targets: ["NotificationBannerSwift"])
     ],
     dependencies: [
         .package(url: "https://github.com/SnapKit/SnapKit", from: "5.7.1"),

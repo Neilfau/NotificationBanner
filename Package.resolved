@@ -2,6 +2,33 @@
   "object": {
     "pins": [
       {
+        "package": "CryptoSwift",
+        "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift",
+        "state": {
+          "branch": null,
+          "revision": "678d442c6f7828def400a70ae15968aef67ef52d",
+          "version": "1.8.3"
+        }
+      },
+      {
+        "package": "Device",
+        "repositoryURL": "https://github.com/Ekhoo/Device.git",
+        "state": {
+          "branch": null,
+          "revision": "9cc8be6ea9456260e6255ba176c47db894fd9814",
+          "version": "3.6.0"
+        }
+      },
+      {
+        "package": "Fuzi",
+        "repositoryURL": "https://github.com/cezheng/Fuzi",
+        "state": {
+          "branch": null,
+          "revision": "f08c8323da21e985f3772610753bcfc652c2103f",
+          "version": "3.1.3"
+        }
+      },
+      {
         "package": "MarqueeLabel",
         "repositoryURL": "https://github.com/cbpowell/MarqueeLabel",
         "state": {
@@ -11,12 +38,57 @@
         }
       },
       {
+        "package": "CloseChannelDependencies",
+        "repositoryURL": "https://github.com/close-dev-team/mobile-close-channel-sdk-ios-dependencies",
+        "state": {
+          "branch": null,
+          "revision": "de0935acc97da4626e007fdfd5bbddddf0b3b4af",
+          "version": "1.7.0"
+        }
+      },
+      {
         "package": "SnapKit",
         "repositoryURL": "https://github.com/SnapKit/SnapKit",
         "state": {
           "branch": null,
           "revision": "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
           "version": "5.7.1"
+        }
+      },
+      {
+        "package": "SocketIO",
+        "repositoryURL": "https://github.com/socketio/socket.io-client-swift",
+        "state": {
+          "branch": null,
+          "revision": "175da8b5156f6b132436f0676cc84c2f6a766b6e",
+          "version": "16.1.0"
+        }
+      },
+      {
+        "package": "SQLite.swift",
+        "repositoryURL": "https://github.com/stephencelis/SQLite.swift",
+        "state": {
+          "branch": null,
+          "revision": "a95fc6df17d108bd99210db5e8a9bac90fe984b8",
+          "version": "0.15.3"
+        }
+      },
+      {
+        "package": "Starscream",
+        "repositoryURL": "https://github.com/daltoniam/Starscream",
+        "state": {
+          "branch": null,
+          "revision": "ac6c0fc9da221873e01bd1a0d4818498a71eef33",
+          "version": "4.0.6"
+        }
+      },
+      {
+        "package": "SwiftySound",
+        "repositoryURL": "https://github.com/adamcichy/SwiftySound",
+        "state": {
+          "branch": null,
+          "revision": "72dbeaf4b4496b105bc731db05819dd16edc9449",
+          "version": "1.3.0"
         }
       }
     ]
